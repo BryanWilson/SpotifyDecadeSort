@@ -30,7 +30,7 @@ $(document).ready(function () {
 
 
 
-    // Set token
+    // Set tokenn
 
     let _token = hash.access_token;
 
